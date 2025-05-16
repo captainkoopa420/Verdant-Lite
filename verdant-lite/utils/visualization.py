@@ -49,8 +49,7 @@ def visualize_memory_graph(memory):
             colorbar=dict(
                 thickness=15,
                 title='Stability',
-                xanchor='left',
-                titleside='right'
+                xanchor='left'
             ),
             line_width=2)
     )
