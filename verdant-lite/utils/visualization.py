@@ -1,3 +1,5 @@
+# visualization.py
+
 import plotly.graph_objects as go
 import networkx as nx
 
@@ -48,7 +50,7 @@ def visualize_memory_graph(memory):
             size=10,
             colorbar=dict(
                 thickness=15,
-                title='Stability',
+                title="Stability",
                 xanchor='left'
             ),
             line_width=2)
