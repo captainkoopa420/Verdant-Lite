@@ -1,6 +1,5 @@
 from core.MemorySystem import MemorySystem
 from core.SubconsciousProcessor import SubconsciousProcessor
-from core.ConsciousAgent import ConsciousAgent
 
 class SyntheticMind:
     def __init__(self):
