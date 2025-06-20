@@ -12,3 +12,5 @@
 ```bash
 pip install -r requirements.txt
 python examples/lite_demo.py
+```
+
